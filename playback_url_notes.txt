@@ -1,0 +1,5 @@
+url should be:
+
+http://www.soundboards.ws/data/sounds/1/xxx.mp3
+
+where xxx is a number between 200 and 390

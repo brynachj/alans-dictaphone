@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "GetPartridge",
+      "slots": [
+        {
+          "name": "Quote",
+          "type": "LIST_OF_PARTRIDGE_QUOTES"
+        }
+      ]
+    },
+      "intent": "RandomPartridge"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    }
+  ]
+}
